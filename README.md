@@ -1,4 +1,4 @@
 # Fluid Framework
-![License MIT](https://fluidev.github.io/readme/images/license/MIT.svg)
+![License MIT](https://fluidev.github.io/assets/images/license/MIT.svg)
 
 The most creative PHP framework ever.
